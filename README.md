@@ -6,7 +6,7 @@ This repository contains a comprehensive exploration of *Support Vector Machines
 
 ### Understanding SVM
 
-At its core, SVM is a method that seeks the best decision boundary, which can separate different classes in the feature space with maximum margin. This decision boundary is known as the hyperplane in *SVM* terminology. The instances that are closest to the hyperplane and which directly influence its position and orientation are termed as support vectors.
+At its core, *SVM* is a method that seeks the best decision boundary, which can separate different classes in the feature space with maximum margin. This decision boundary is known as the hyperplane in *SVM* terminology. The instances that are closest to the hyperplane and which directly influence its position and orientation are termed as support vectors.
 
 ### Hinge Loss vs. Binary Classification Loss
 
@@ -27,9 +27,9 @@ The project also includes practical examples of SVM application using the `sciki
 
 This project aims to:
 
-- Provide a clear understanding of SVM and its operational mechanisms.
-- Illustrate the advantages of using Hinge Loss in SVM for binary classification tasks.
-- Demonstrate the application of SVM using the scikit-learn library.
+- Provide a clear understanding of *SVM* and its operational mechanisms.
+- Illustrate the advantages of using Hinge Loss in *SVM* for binary classification tasks.
+- Demonstrate the application of *SVM* using the `scikit-learn` library.
 
 ### Eigenfaces for Dimensionality Reduction (Last implementation)
 
@@ -38,4 +38,4 @@ Eigenfaces refer to a set of eigenvectors used in the computer vision problem of
 
 ## Target Audience
 
-This repository is intended for students, data scientists, and anyone interested in machine learning, providing both a solid theoretical foundation and practical insights into SVM.
+This repository is intended for students, data scientists, and anyone interested in machine learning, providing both a solid theoretical foundation and practical insights into *SVM*.
