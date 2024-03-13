@@ -14,7 +14,7 @@ A pivotal concept in understanding SVM is the notion of Hinge Loss, a key compon
 
 ### Practical Application with Scikit-Learn
 
-The project also includes practical examples of SVM application using the `scikit-learn`library's SVC class. These examples illustrate how to implement linear SVM for binary classification problems, showcasing the algorithm's effectiveness in handling linearly separable data.
+The project also includes practical examples of SVM application using the `scikit-learn` library's SVC class. These examples illustrate how to implement linear SVM for binary classification problems, showcasing the algorithm's effectiveness in handling linearly separable data.
 
 ## Objectives
 
