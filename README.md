@@ -2,7 +2,7 @@
 
 ## Conceptual Background
 
-This repository contains a comprehensive exploration of Support Vector Machines (SVM), a powerful and versatile machine learning algorithm used for both classification and regression tasks but particularly well-suited for classification. Through this project, we delve into the theoretical underpinnings of SVMs, focusing on binary classification, and provide practical examples to illustrate their application.
+This repository contains a comprehensive exploration of *Support Vector Machines (SVM)*, a powerful and versatile machine learning algorithm used for both classification and regression tasks but particularly well-suited for classification. Through this project, we delve into the theoretical underpinnings of SVMs, focusing on binary classification, and provide practical examples to illustrate their application.
 
 ### Understanding SVM
 
